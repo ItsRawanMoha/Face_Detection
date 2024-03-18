@@ -2,7 +2,7 @@
 
 This readme file provides instructions for implementing face detection using two different approaches: OpenCV and Flask for real-time face detection, and Teachable Machine and TensorFlow with Android Studio.
 
-<img src="https://github.com/ItsRawanMoha/Face_Detection/assets/156599594/cde7d763-4810-424b-917e-440b87fed078" alt="Alt text" width="500" height="400"> <img src="https://github.com/ItsRawanMoha/Face_Detection/assets/156599594/7f352661-9eca-4145-a7af-aaf7e747b669" alt="Alt text" width="500" height="400"> 
+<img src="https://github.com/ItsRawanMoha/Face_Detection/assets/156599594/cde7d763-4810-424b-917e-440b87fed078" alt="Alt text" width="200" height="200"> <img src="https://github.com/ItsRawanMoha/Face_Detection/assets/156599594/7f352661-9eca-4145-a7af-aaf7e747b669" alt="Alt text" width="200" height="200"> <img src="https://github.com/ItsRawanMoha/Face_Detection/assets/156599594/0edb19e7-e4b0-4b4e-acec-d47e841183c9" alt="Alt text" width="200" height="200">
 
 ![image](https://github.com/ItsRawanMoha/Face_Detection/assets/156599594/730a45ee-570a-4e20-8c72-ff0fcdd95841)
 
@@ -114,7 +114,9 @@ Sample code for implementing face detection using OpenCV and Flask, as well as f
 
 ### Teachable Machine and TensorFlow with Android Studio
 
-### Step 1: Went to teachable machine website and made those classes (Cat, Dog, Hamster, Goat).
+### Step 1: Went to Teachable Machine website and made those classes (Cat, Dog, Hamster, Goat). 
+
+- Teachable Machine website: https://teachablemachine.withgoogle.com/
 
 <img src="https://github.com/ItsRawanMoha/Face_Detection/assets/156599594/17468b69-a6b7-4b09-a22e-4bcc561a54db" alt="Alt text" width="700" height="400"> 
 
